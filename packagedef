@@ -22,10 +22,10 @@
 КонецПроцедуры
 
 Описание.Имя("gitsync-plugins")
-        .Версия("1.5.0")
-        .Автор("Khorev A.A. and SilverBulleters")
-        .АдресАвтора("khorevaa@gmail.com,help@silverbulleters.org")
-        .Описание("Набор предустановленных плагинов для gitsync")
+        .Версия("0.0.2")
+        .Автор("PumbaEO")
+        .АдресАвтора("evhen.sosna@gmail.com")
+        .Описание("Набор предустановленных плагинов для git2reposync")
         .ВерсияСреды("1.5.0")
         .ВключитьФайл("src")
         .ВключитьФайл("docs")
